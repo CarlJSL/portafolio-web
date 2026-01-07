@@ -11,11 +11,11 @@ export const projects: Project[] = [
     icon: React.createElement(Smartphone, { size: 24 }),
     isMobile: true,
     images: [
-      "/images/taskflow-1.jpg",
-      "/images/taskflow-2.jpg",
-      "/images/taskflow-3.jpg",
-      "/images/taskflow-4.jpg",
-      "/images/taskflow-5.jpg"
+      "images/taskflow-1.jpg",
+      "images/taskflow-2.jpg",
+      "images/taskflow-3.jpg",
+      "images/taskflow-4.jpg",
+      "images/taskflow-5.jpg"
     ],
     githubUrl: "https://github.com/CarlJSL/taskflow.git"
   },
@@ -27,11 +27,11 @@ export const projects: Project[] = [
     icon: React.createElement(Smartphone, { size: 24 }),
     isMobile: true,
     images: [
-      "/images/alumnosipan-1.jpg",
-      "/images/alumnosipan-2.jpg",
-      "/images/alumnosipan-3.jpg",
-      "/images/alumnosipan-4.jpg",
-      "/images/alumnosipan-5.jpg"
+      "images/alumnosipan-1.jpg",
+      "images/alumnosipan-2.jpg",
+      "images/alumnosipan-3.jpg",
+      "images/alumnosipan-4.jpg",
+      "images/alumnosipan-5.jpg"
     ],
     githubUrl: "https://github.com/CarlJSL/sistemaIntegral.git"
   },
@@ -42,9 +42,9 @@ export const projects: Project[] = [
     color: "bg-blue-600",
     icon: React.createElement(Server, { size: 24 }),
     images: [
-      "/images/erp-1.png",
-      "/images/erp-2.png",
-      "/images/erp-3.png"
+      "images/erp-1.png",
+      "images/erp-2.png",
+      "images/erp-3.png"
     ],
     githubUrl: "https://github.com/CarlJSL"
   },
@@ -55,10 +55,10 @@ export const projects: Project[] = [
     color: "bg-orange-600",
     icon: React.createElement(Server, { size: 24 }),
     images: [
-      "/images/scrum-1.jpg",
-      "/images/scrum-2.jpg",
-      "/images/scrum-3.jpg",
-      "/images/scrum-4.jpg"
+      "images/scrum-1.jpg",
+      "images/scrum-2.jpg",
+      "images/scrum-3.jpg",
+      "images/scrum-4.jpg"
     ],
     githubUrl: "https://github.com/CarlJSL"
   },
@@ -69,10 +69,10 @@ export const projects: Project[] = [
     color: "bg-teal-600",
     icon: React.createElement(Server, { size: 24 }),
     images: [
-      "/images/ecommerce-1.jpg",
-      "/images/ecommerce-2.jpg",
-      "/images/ecommerce-3.jpg",
-      "/images/ecommerce-4.jpg"
+      "images/ecommerce-1.jpg",
+      "images/ecommerce-2.jpg",
+      "images/ecommerce-3.jpg",
+      "images/ecommerce-4.jpg"
     ],
     githubUrl: "https://github.com/CarlJSL/modasalud-web.git"
   }
